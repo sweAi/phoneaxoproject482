@@ -1,6 +1,7 @@
-Thanks for downloading this theme!
+This is a project for swe482(human interaction with computer)KSU
+thsi a wbsite for purchasing phone accessories this is a dummy website
+this website without database is just to show how people iteract with the website 
 
-Theme Name: BizPage
-Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+
+Abdulrahman alamer 
+sweai
