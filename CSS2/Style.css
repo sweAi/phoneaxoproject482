@@ -1,0 +1,44 @@
+.title{
+    margin-top: 20px;
+}
+.bg-header   {
+    background-color: black;
+    
+}
+.links  {
+    text-decoration: none;
+    color: white;
+}
+.white  {
+    color: white;
+}
+.footers  {
+    display: inline;
+
+}
+.centerpic  {
+    position: relative;
+    margin-left: 200px;
+    
+}
+footer  {
+    position: relative;
+    margin-bottom: 10px;
+    
+}
+.p-2    {
+    padding: 2px;
+}
+
+.mySlides {
+    display:none;
+    width: 1400px ;
+    height: 600px ;
+}
+.slideimg   {
+    width: 1400px ;
+    height: 600px ;
+}
+.hide   {
+    display: none;
+}
